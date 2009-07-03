@@ -17,6 +17,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "hfu-segue.gemspec",
+     "segue.gemspec",
      "segue.rb"
   ]
   s.has_rdoc = true
