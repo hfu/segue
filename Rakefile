@@ -1,7 +1,7 @@
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "hfu-segue"
+    gemspec.name = "segue"
     gemspec.summary = "Sequel Geospatial Utilitiy Extension"
     gemspec.email = "hfu@svgmapdata.sakura.ne.jp"
     gemspec.homepage = "http://d.hatena.ne.jp/hfu/"
