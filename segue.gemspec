@@ -16,7 +16,6 @@ Gem::Specification.new do |s|
     "README",
      "Rakefile",
      "VERSION",
-     "hfu-segue.gemspec",
      "segue.gemspec",
      "segue.rb"
   ]
