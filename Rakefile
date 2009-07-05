@@ -7,7 +7,7 @@ begin
     gemspec.homepage = "http://d.hatena.ne.jp/hfu/"
     gemspec.description = "Sequel Geospatial Utility Extension"
     gemspec.authors = ["hfu"]
-    gemspec.require_paths = []
+    gemspec.require_paths = ['.']
   end
 rescue LoadError
   puts "Jeweler not available."
