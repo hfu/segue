@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.has_rdoc = true
   s.homepage = %q{http://d.hatena.ne.jp/hfu/}
   s.rdoc_options = ["--charset=UTF-8"]
-  s.require_paths = []
+  s.require_paths = ["."]
   s.rubygems_version = %q{1.3.1}
   s.summary = %q{Sequel Geospatial Utilitiy Extension}
 
