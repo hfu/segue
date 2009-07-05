@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["hfu"]
-  s.date = %q{2009-07-04}
+  s.date = %q{2009-07-05}
   s.description = %q{Sequel Geospatial Utility Extension}
   s.email = %q{hfu@svgmapdata.sakura.ne.jp}
   s.extra_rdoc_files = [
@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.has_rdoc = true
   s.homepage = %q{http://d.hatena.ne.jp/hfu/}
   s.rdoc_options = ["--charset=UTF-8"]
-  s.require_paths = ["lib"]
+  s.require_paths = []
   s.rubygems_version = %q{1.3.1}
   s.summary = %q{Sequel Geospatial Utilitiy Extension}
 
